@@ -24,11 +24,11 @@ NextLevelWeek é um evento online produzido por [Rocketseat](https://github.com/
 - **Dia 1: Base Building. 11/09 <br/>
 (React :heavy_check_mark:) / (Node.js :heavy_check_mark:) / (React Native :heavy_check_mark:)**
 
-- **Dia 2: High Speed. 12/09 <br/>
-(React :x:) / (Node.js :x:) / (React Native :x:)**
+- Dia 2: High Speed. 12/09 <br/>
+(React :x:) / (Node.js :x:) / (React Native :x:)
 
-- **Dia 3: To be continue. 13/09 <br/>
-(React :x:) / (Node.js :x:) / (React Native :x:)**
+- Dia 3: To be continue. 13/09 <br/>
+(React :x:) / (Node.js :x:) / (React Native :x:)
 
 - Dia 4: Power up. 14/09 <br/>
 (React :x:) / (Node.js :x:) / (React Native :x:)
