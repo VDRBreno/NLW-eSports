@@ -36,6 +36,9 @@ NextLevelWeek é um evento online produzido por [Rocketseat](https://github.com/
 - Dia 5: Final Round. 15/09 <br/>
 (React :x:) / (Node.js :x:) / (React Native :x:)
 
+- Dia 6: The Next Level. 16/09 <br/>
+(React :x:) / (Node.js :x:) / (React Native :x:)
+
 ## :rocket: Tecnologias
 
 O projeto está sendo desenvolvido usando:
