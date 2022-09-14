@@ -25,7 +25,7 @@ NextLevelWeek é um evento online produzido por [Rocketseat](https://github.com/
 
 - **Dia 2: High Speed. 12/09 :heavy_check_mark:**
 
-- Dia 3: To be continue. 13/09 :x:
+- **Dia 3: To be continue. 13/09 :heavy_check_mark:**
 
 - Dia 4: Power up. 14/09 :x:
 
