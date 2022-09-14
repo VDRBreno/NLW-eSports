@@ -21,23 +21,17 @@
 NextLevelWeek é um evento online produzido por [Rocketseat](https://github.com/rocketseat), NLW é um evento com muito código, desafios, networking e um único objetivo: Avançar para o próximo nível. Sempre com um conteúdo novo a cada edição.
 
 ### Aulas (Trilha Ignite)
-- **Dia 1: Base Building. 11/09 <br/>
-(React :heavy_check_mark:) / (Node.js :heavy_check_mark:) / (React Native :heavy_check_mark:)**
+- **Dia 1: Base Building. 11/09 :heavy_check_mark:**
 
-- Dia 2: High Speed. 12/09 <br/>
-(React :x:) / (Node.js :x:) / (React Native :x:)
+- **Dia 2: High Speed. 12/09 :heavy_check_mark:**
 
-- Dia 3: To be continue. 13/09 <br/>
-(React :x:) / (Node.js :x:) / (React Native :x:)
+- Dia 3: To be continue. 13/09 :x:
 
-- Dia 4: Power up. 14/09 <br/>
-(React :x:) / (Node.js :x:) / (React Native :x:)
+- Dia 4: Power up. 14/09 :x:
 
-- Dia 5: Final Round. 15/09 <br/>
-(React :x:) / (Node.js :x:) / (React Native :x:)
+- Dia 5: Final Round. 15/09 :x:
 
-- Dia 6: The Next Level. 16/09 <br/>
-(React :x:) / (Node.js :x:) / (React Native :x:)
+- Dia 6: The Next Level. 16/09 :x:
 
 ## :rocket: Tecnologias
 
