@@ -39,12 +39,14 @@ O projeto está sendo desenvolvido usando:
 
 - [React][reactjs]
 - [TypeScript][typescript]
+- [TailwindCSS][tailwindcss]
 - [ReactNative][Reactnative]
 - [Expo][expo]
 - [Node.js][nodejs]
 
 [reactjs]: https://reactjs.org
 [typescript]: https://www.typescriptlang.org/
+[tailwindcss]: https://tailwindcss.com
 [reactnative]: https://reactnative.dev
 [expo]: https://expo.io
 [nodejs]: https://nodejs.org/en/
