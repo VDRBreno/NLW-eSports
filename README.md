@@ -14,7 +14,7 @@
   </div>
 </h1>
 
-## :warning: **EM DESENVOLVIMENTO** :warning:
+## :warning: **DESCONTINUADO** :warning:
 
 ## :page_with_curl: O que é NextLevelWeek?
 
